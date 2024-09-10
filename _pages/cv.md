@@ -39,7 +39,7 @@ Awards and Accomplishments
 * DAAD RISE Germany Scholarship
 * 2018, 2019 Imperial College Department of Physics Dean’s List: total year results in the top 10 percent of the cohort
 
-Publications
+<!---Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -59,4 +59,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams --->
