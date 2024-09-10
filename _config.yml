@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Alicja Polanska"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Alicja Polanska"
 description              : &description "personal description"
