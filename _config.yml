@@ -25,7 +25,7 @@ author:
   name             : "Alicja Polanska"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
-  location         : "London, UK"
+  location         : 
   employer         : "University College London"
   uri              : # URL
   email            : "alicja.a.polanska@ucl.ac.uk" 
