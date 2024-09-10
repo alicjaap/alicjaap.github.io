@@ -1,6 +1,6 @@
 ---
 title: "Learned harmonic mean estimation of the marginal likelihood with normalizing flows"
-collection: publications
+collection: conference
 permalink: /publication/2023-MaxEnt
 excerpt:
 date: 2023-06-30
