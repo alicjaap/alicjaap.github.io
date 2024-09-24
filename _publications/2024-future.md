@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-future
 excerpt:
 date: 2024-05-21
-venue: 'Open Journal of Astrophysics, Vol. 7, 2024September 05, 2024 IST'
+venue: 'Open Journal of Astrophysics, Vol. 7, 2024 IST'
 paperurl: 'https://astro.theoj.org/article/123368-the-future-of-cosmological-likelihood-based-inference-accelerated-high-dimensional-parameter-estimation-and-model-comparison'
 ---
 
