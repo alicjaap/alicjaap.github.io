@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a doctoral researcher at [UCL's Centre for Doctoral Training in Data Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry) working with the [Scientific AI (SciAI) group](http://www.jasonmcewen.org/team/) at the [Mullard Space Science Laboratory](https://www.ucl.ac.uk/mssl/). My thesis supervisors are Prof Jason McEwen and  Dr Benjamin Joachimi. My research focuses on developing machine learning and statistical methods for Astrophysics and beyond.
+I'm a doctoral researcher at UCL's [Centre for Doctoral Training in Data Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry) working with the [Scientific AI (SciAI) group](http://www.jasonmcewen.org/team/) at the [Mullard Space Science Laboratory](https://www.ucl.ac.uk/mssl/). My thesis supervisors are Prof Jason McEwen and  Dr Benjamin Joachimi. My research focuses on developing machine learning and statistical methods for Astrophysics and beyond.
 
 If you're interested in my work or have any questions please drop me an email!
 
