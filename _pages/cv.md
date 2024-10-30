@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* PhD in Data Intensive Science, University College London Centre for Doctoral Training in Data Intensive Science, 2022-2026
+* PhD in Machine Learning for Astrophysics, University College London Centre for Doctoral Training in Data Intensive Science, 2022-2026
 
 * MSci Physics with Theoretical Physics, Imperial College London, 2017-2021, First Class Honours
   * MSci project on Simulating Materials at Constant Pressure Using Homogeneous Coordinates
