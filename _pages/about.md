@@ -20,6 +20,9 @@ harmonic
 ------
 harmonic is an open source, well tested and documented Python implementation of the learned harmonic mean estimator to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. It is available on [GitHub](https://github.com/astro-informatics/harmonic) and PyPi. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2405.05969). The original paper introducing the learned harmonic mean is available [here](https://arxiv.org/abs/2111.12720).
 
+Physics-based Active Learning for Neural Operators at UKAEA
+------
+Numerical solvers for PDEs are fundamental to fields like fusion but are often computationally prohibitive. To address the heavy data requirements of training neural operator surrogates, we are developing a novel physics-based active learning acquisition strategy. This approach leverages the Physics Residual Error, measuring how much a model violates governing equations. We then use it to iteratively select the most informative simulation parameters to add to the training set. In addition to making the training process more data efficient, physics-based acquisition indirectly injects inductive bias from our knowledge of the physics. This work was done as part of my internship at the UK Atomic Energy Authority.
 
 S2WAV: Differentiable and accelerated spherical wavelets with JAX
 -------

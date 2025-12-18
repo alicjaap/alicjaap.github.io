@@ -18,6 +18,8 @@ Education
 
 Experience
 ======
+* 2025/01–07: Machine Learning Research Intern at UK Atomic Energy Authority
+
 * 2024/05: Spring into Quant Finance Insights Week at G-Research
 
 * 2023/05: Data Study Group Participant at The Alan Turing Institute
@@ -33,6 +35,7 @@ Experience
 
 Awards and Accomplishments
 ======
+* Prize for Best PhD Student Presentation issued by the IOP at the DISI Conference
 * Cosmology and Astroparticle Student and Postdoc Exchange Network (CASPEN) Grant
 * G-Research Grant for early career researchers
 * International Research Opportunities (IROP) Award at Imperial College London
