@@ -10,6 +10,8 @@ redirect_from:
 
 I'm a doctoral researcher at UCL's [Centre for Doctoral Training in Data Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry) working with the [Scientific AI (SciAI) group](http://www.jasonmcewen.org/team/) at the [Mullard Space Science Laboratory](https://www.ucl.ac.uk/mssl/). My thesis supervisors are Prof Jason McEwen and  Dr Benjamin Joachimi. My research focuses on developing machine learning and statistical methods for Astrophysics and beyond.
 
+I'm actively looking for data science and applied machine learning positions starting in late 2026.
+
 If you're interested in my work or have any questions please drop me an email!
 
 
@@ -22,7 +24,7 @@ harmonic is an open source, well tested and documented Python implementation of 
 
 Physics-based Active Learning for Neural Operators at UKAEA
 ------
-Numerical solvers for PDEs are fundamental to fields like fusion but are often computationally prohibitive. To address the heavy data requirements of training neural operator surrogates, we are developing a novel physics-based active learning acquisition strategy. This approach leverages the Physics Residual Error, measuring how much a model violates governing equations. We then use it to iteratively select the most informative simulation parameters to add to the training set. In addition to making the training process more data efficient, physics-based acquisition indirectly injects inductive bias from our knowledge of the physics. This work was done as part of my internship at the UK Atomic Energy Authority.
+Numerical solvers for PDEs are fundamental to fields like fusion but are often computationally prohibitive. To address the heavy data requirements of training neural operator surrogates, we are developing a novel physics-based active learning acquisition strategy. This approach leverages the Physics Residual Error, measuring how much a model violates governing equations. We then use it to iteratively select the most informative simulation parameters to add to the training set. In addition to making the training process more data efficient, physics-based acquisition indirectly injects inductive bias from our knowledge of the physics. This work was done as part of my internship at the UK Atomic Energy Authority. Our results are described in a short paper accepted to the ICLR Workshop on Artificial Intelligence and Partial Differential Equations, available [here](https://openreview.net/pdf?id=kQxcPnsdX3).
 
 S2WAV: Differentiable and accelerated spherical wavelets with JAX
 -------
