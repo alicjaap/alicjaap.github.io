@@ -11,9 +11,6 @@ main:
   - title: "CV"
     url: /cv/
 
-  - title: "Talks"
-    url: /talks/
-  
-  - title: "Posters"
-    url: /posters/
+  - title: "Presented Work"
+    url: /presented-work/
     
