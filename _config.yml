@@ -281,14 +281,6 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-  # _posters
-  - scope:
-      path: ""
-      type: posters
-    values:
-      layout: single
-      author_profile: true
-      share: true
 
 
 # Sass/SCSS
