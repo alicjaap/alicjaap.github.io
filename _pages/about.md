@@ -18,7 +18,7 @@ Projects
 
 harmonic
 ------
-harmonic is an open source, well tested and documented Python implementation of the learned harmonic mean estimator to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. It is available on [GitHub](https://github.com/astro-informatics/harmonic) and PyPi. My recent project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2405.05969). The original paper introducing the learned harmonic mean is available [here](https://arxiv.org/abs/2111.12720).
+harmonic is an open source, well tested and documented Python implementation of the learned harmonic mean estimator to compute the marginal likelihood (Bayesian evidence), required for Bayesian model selection. It is available on [GitHub](https://github.com/astro-informatics/harmonic) and PyPi. My research on this project focuses on introducing normalizing flows to learn the importance sampling target distribution, increasing robustness and scalability, as described [here](https://arxiv.org/abs/2405.05969). I've also extended the framework with flow matching to enable accurate evidence estimation for highly multimodal posteriors in high dimensions, as detailed [here](https://arxiv.org/abs/2506.04339). The original paper introducing the learned harmonic mean is available [here](https://arxiv.org/abs/2111.12720).
 
 Physics-based Active Learning for Neural Operators at UKAEA
 ------
