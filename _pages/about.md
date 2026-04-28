@@ -10,9 +10,9 @@ redirect_from:
 
 I'm a doctoral researcher at UCL's [Centre for Doctoral Training in Data Intensive Science](https://www.ucl.ac.uk/data-intensive-science-industry) working with the [Scientific AI (SciAI) group](http://www.jasonmcewen.org/team/) at the [Mullard Space Science Laboratory](https://www.ucl.ac.uk/mssl/). My thesis supervisors are Prof Jason McEwen and  Dr Benjamin Joachimi. My research focuses on developing machine learning and statistical methods for Astrophysics and beyond.
 
-I'm actively looking for data science and applied machine learning positions starting in late 2026.
+I completed my undergraduate degree (MSci Physics with Theoretical Physics) at Imperial College London, where I graduated with first class honours.
 
-If you're interested in my work or have any questions please drop me an email!
+I'm actively looking for data science and applied machine learning positions starting in late 2026. If you're interested in my work or have any questions please drop me an email!
 
 
 Projects
